@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
@@ -14,7 +13,6 @@ int main()
   cin.tie(0);
 
   int ally[999999], enemy[999999];
-
 
   int c = 0, in, s;
   cin >> s;
